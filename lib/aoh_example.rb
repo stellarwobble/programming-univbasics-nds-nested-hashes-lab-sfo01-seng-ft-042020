@@ -17,7 +17,7 @@ def assembled_aoh
     BRUCE_G
     ]
 end
-infinite_jest
+
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
