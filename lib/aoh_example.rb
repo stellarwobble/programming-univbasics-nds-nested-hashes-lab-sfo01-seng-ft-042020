@@ -18,7 +18,6 @@ def assembled_aoh
     ]
 end
 infinite_jest
-end
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
